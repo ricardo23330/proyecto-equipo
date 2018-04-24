@@ -1,4 +1,5 @@
-![](https://images.cooltext.com/5136274.png)
+![](https://lh3.googleusercontent.com/-rqI2P4a8Grc/Wt-FQJBwaGI/AAAAAAAAAEg/_heHffmKyqMRpoy5qv0wFK5Wd8ZR2R6fwCL0BGAs/w530-d-h530-n-rw/Sup%252C%2Bdawg-.png)
+
 ![](https://images.cooltext.com/5136288.png)
 
 **GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de computadora.**
