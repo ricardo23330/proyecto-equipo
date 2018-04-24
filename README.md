@@ -4,11 +4,17 @@
 **Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc. Anteriormente era conocida como Logical Awesome LLC. El código de los proyectos alojados en GitHub se almacena típicamente de forma pública, aunque utilizando una cuenta de pago, también permite hospedar repositorios privados.**
 **CARACTERISTICAS**
 *-Wiki para cada proyecto.*
+
 *-Página web para cada proyecto.1​*
+
 *-Gráfico para ver cómo los desarrolladores trabajan en sus repositorios y bifurcaciones del proyecto.*
+
 *-Funcionalidades como si se tratase de una red social, por ejemplo, seguidores.*
+
 *-Herramienta para trabajo colaborativo entre programadores.*
+
 *-Gestor de proyectos de estilo Kanban.*
+
 
 ![](https://images.cooltext.com/5136288.png)
 
